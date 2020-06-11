@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="name">Name</string>
+    <string name="name_required">Please enter a name</string>
+    <string name="age">Age</string>
+    <string name="job_title">Job Title</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="save">save</string>
+    <string name="show">Show All</string>
+    <string name="no_users">There is no users</string>
+    <string name="user_saved_successfully">User Saved Successfully</string>
+
+
+
+</resources>
